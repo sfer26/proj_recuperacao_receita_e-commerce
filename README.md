@@ -1,4 +1,3 @@
-# 🚀 Desafio Técnico – Analista de Dados & Desenvolvedor LLM
 ## **Projeto de Recuperação de Receita: Análise e Modelo Preditivo**
 #### 📊**1. Visão Geral do Desafio**
 - **1.1. Objetivos de Negócio:**
@@ -83,10 +82,6 @@
 
   ---
 
-Autor
+[LinkedIn](https://www.linkedin.com/in/stellafern/)
 
-Nome: Stella Fernandes
-
-LinkedIn: [https://www.linkedin.com/in/stellafern/]
-
-Email: [sdib2626@gmail.com]
+Email: sdib2626@gmail.com
